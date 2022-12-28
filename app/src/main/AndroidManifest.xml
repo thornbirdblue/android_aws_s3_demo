@@ -22,11 +22,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="cc.thornbird.s3view">
     <application android:label="S3View">
-        <activity android:name="S3View">
+        <activity android:name=".S3View">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-		<data android:mimeType="image/*"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
     </application>

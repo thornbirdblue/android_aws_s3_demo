@@ -19,14 +19,8 @@ class S3View : Activity() {
 
 	    override fun onCreate(savedInstanceState: Bundle?) {
 	        super.onCreate(savedInstanceState)
-	        
 
 		setContentView(R.layout.s3view_activity)
-	    }
-
-	    override fun onResume() {
-		super.onResume()
-
 	    }
 }
 
