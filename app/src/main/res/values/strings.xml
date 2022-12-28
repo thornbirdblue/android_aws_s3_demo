@@ -16,6 +16,6 @@
 
 <resources>
 
-    <string name="s3view_activity_text_text">Hello, World!</string>
+    <string name="s3view_activity_text">Hello, World!</string>
 
 </resources>

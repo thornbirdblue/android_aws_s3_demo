@@ -14,11 +14,12 @@
      limitations under the License.
 -->
 
-<EditText xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/text"
+<EditText xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/text"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:textSize="18sp"
     android:autoText="true"
     android:capitalize="sentences"
-    android:text="@string/s3view_activity_text_text" />
+    android:text="@string/s3view_activity_text" />
 
